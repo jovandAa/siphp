@@ -52,7 +52,7 @@ export default function Sidebar() {
 
   const operatorMenuItems = [
     { href: "/dashboard", label: "Dashboard", icon: "📊" },
-    { href: "/barang", label: "Barang", icon: "📦" },
+    { href: "/sarpras", label: "Barang", icon: "📦" },
     { href: "/berita_acara", label: "Berita Acara", icon: "📄" },
   ];
 
@@ -173,4 +173,5 @@ export default function Sidebar() {
       </aside>
     </>
   );
+
 }
